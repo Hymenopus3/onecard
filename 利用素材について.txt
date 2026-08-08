@@ -1,0 +1,13 @@
+BGM
+魔王魂様
+https://maou.audio/
+
+効果音
+効果音ラボ様
+https://soundeffect-lab.info/
+
+モジュール(fps_wait_mod)
+HSP開発wiki様
+https://wiki.hsp.moe/Module%EF%BC%8FFPS%E5%88%B6%E5%BE%A1.html
+
+からお借りしました
